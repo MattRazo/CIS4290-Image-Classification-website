@@ -577,6 +577,82 @@
     </div>
     <div id="body_overlay"></div>
 
+    <footer id="Footer" class="clearfix">
+            <div class="widgets_wrapper center">
+                <div class="container">
+                    <div class="column one-second">
+                        <aside class="widget_text widget widget_custom_html">
+                            <div class="textwidget custom-html-widget">
+                                <h6>QUICK LINKS</h6>
+                                <hr class="no_line" style="margin:0 auto 5px">
+                                <div class="column one-second">
+                                    <ul>
+                                        <li>
+                                            <a href="#">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Our garage</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Chip tuning</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="column one-second">
+                                    <ul>
+                                        <li>
+                                            <a href="#">Rally cars</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Our projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <div class="textwidget custom-html-widget">
+                                <h6>OUR ADDRESS</h6>
+                                <hr class="no_line" style="margin:0 auto 5px">
+                                <p>
+                                    Level 13, 2 Elizabeth St,
+                                    <br> Melbourne, Victoria 3000,
+                                    <br> Australia
+                                </p>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <div class="textwidget custom-html-widget">
+                                <h6>OPENING HOURS</h6>
+                                <hr class="no_line" style="margin:0 auto 5px">
+                                <p>
+                                    <span style="color: #ccc;">Mon - Fri:</span> 6 AM - 10 PM
+                                    <br>
+                                    <span style="color: #ccc;">Sat - Sun:</span> 8 AM - 08 PM
+                                </p>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copy">
+                <div class="container">
+                    <div class="column one">
+                        <a id="back_to_top" class="button button_js" href><i class="icon-up-open-big"></i></a>
+                        <div class="copyright">
+                            &copy; 2020 BeMechanic 6 - BeTheme. Muffin group - HTML by <a target="_blank" rel="nofollow" href="https://1.envato.market/9ZxXY">BeantownThemes</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
 
 
 
