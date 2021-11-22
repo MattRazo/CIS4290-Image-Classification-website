@@ -95,7 +95,7 @@
     <Content Include="Data Set.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Link to Images.aspx" />
+    <Content Include="Link to Code.aspx" />
     <Content Include="Results.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -117,11 +117,11 @@
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Link to Images.aspx.designer.vb">
-      <DependentUpon>Link to Images.aspx</DependentUpon>
+    <Compile Include="Link to Code.aspx.designer.vb">
+      <DependentUpon>Link to Code.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Link to Images.aspx.vb">
-      <DependentUpon>Link to Images.aspx</DependentUpon>
+    <Compile Include="Link to Code.aspx.vb">
+      <DependentUpon>Link to Code.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />

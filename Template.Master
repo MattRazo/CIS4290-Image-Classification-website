@@ -51,16 +51,16 @@
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu menu-main">
                                             <li class=" current-menu-item page_item current_page_item">
-                                                <a href="Default.aspx"><span>Home</span></a>
+                                                <a href="Default.aspx"><span>Introduction</span></a>
                                             </li>
                                             <li>
                                                 <a href="Data Set.aspx"><span>Data Set</span></a>
                                             </li>
                                             <li>
-                                                <a href="Results.aspx"><span>Results</span></a>
+                                                <a href="Link to Code.aspx"><span>Link to Python Code</span></a>
                                             </li>
                                             <li>
-                                                <a href="Link to Images.aspx"><span>Link to Images</span></a>
+                                                <a href="Results.aspx"><span>Results</span></a>
                                             </li>
                                         </ul>
                                     </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
@@ -161,8 +161,7 @@
                 </div>
             </header>
         </div>
-                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
+
         <div id="Content">
             
 
@@ -189,8 +188,18 @@
                                                                                         <div class="elementor-column-wrap  elementor-element-populated">
                                                                                             <div class="elementor-widget-wrap">
                                                                                                 <div class="elementor-element elementor-element-6399336 elementor-widget elementor-widget-text-editor" data-id="6399336" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
+                                                                                                    <div class="elementor-widget-wrap">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
+                                                                                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                                                                                                </asp:ContentPlaceHolder>
+                                                                                                            <div>
+                                                                                                            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                                                                                                </asp:ContentPlaceHolder>
+                                                                                                            </div>
+                                                                                                            <div>
+                                                                                                            <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                                                                                                                </asp:ContentPlaceHolder>
+                                                                                                            </div>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -608,11 +617,11 @@
 					duration :"6000ms",
 					visibilityLevels :"1240,1240,778,778",
 					gridwidth :"1920,1920,778,778",
-					gridheight :"850,850,550,550",
+					gridheight :"200,850,550,550",
 					spinner :"spinner7",
 					perspective : 600,
 					perspectiveType :"global",
-					editorheight :"850,768,550,720",
+					editorheight :"200,768,550,720",
 					responsiveLevels :"1240,1240,778,778",
 					progressBar : {
 						style :"cw",
