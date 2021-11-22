@@ -75,90 +75,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mfn-main-slider mfn-rev-slider">
-                    <p class="rs-p-wp-fix"></p>
-                    <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;background-image:url(content/mechanic6/images/mechanic6-slider-bg3.png);background-repeat:repeat-x;background-size:normal;background-position:center bottom;">
-                        <rs-module id="rev_slider_1_1" style data-version="6.2.14">
-                                <rs-slide data-key="rs-2" data-title="Slide 2" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                    <img src="content/mechanic6/images/transparent.png" alt="Slide 2" title="Home" class="rev-slidebg" data-no-retina>   
-                                    <rs-layer id="slider-1-slide-2-layer-9" data-type="text" data-rsp_ch="on" data-xy="xo:167px,167px,97px,97px;yo:361px,361px,207px,207px;" data-text="w:normal;s:48,48,30,30;l:55,55,40,40;fw:500;" data-dim="w:700px,700px,400px,400px;" data-frame_0="x:50,50,19,19;"
-                                        data-frame_1="st:200;sp:1000;sR:200;" data-frame_999="o:0;st:w;sR:7800;" style="z-index:11;font-family:Poppins;">
-                                        and special trainings
-                                        <br> for rally drivers
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-10" data-type="text" data-color="#f2ab41" data-rsp_ch="on" data-xy="xo:166px,166px,96px,96px;yo:254px,254px,142px,142px;" data-text="w:normal;s:96,96,55,55;l:96,96,55,55;fw:900;" data-frame_0="x:50,50,19,19;" data-frame_1="st:150;sp:1000;sR:150;"
-                                        data-frame_999="o:0;st:w;sR:7850;" style="z-index:10;font-family:Roboto;">
-                                        RALLY CARS
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-11" data-type="text" data-rsp_ch="on" data-xy="xo:163px,163px,95px,95px;yo:187px,187px,95px,95px;" data-text="w:normal;s:48,48,30,30;l:48,48,40,40;fw:500;" data-frame_0="x:50,50,19,19;" data-frame_1="st:100;sp:1000;sR:100;"
-                                        data-frame_999="o:0;st:w;sR:7900;" style="z-index:9;font-family:Poppins;">
-                                        Desiging and building
-                                    </rs-layer><a id="slider-1-slide-2-layer-18" class="rs-layer rev-btn" href="content/mechanic6/about.html" target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:167px,167px,97px,97px;yo:512px,512px,327px,327px;"
-                                        data-text="w:normal;s:16;l:55;fw:600;" data-dim="minh:0px,0px,none,0px;" data-padding="r:40,40,30,30;l:40,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_0="x:50,50,19,19;" data-frame_1="st:250;sp:1000;sR:250;"
-                                        data-frame_999="o:0;st:w;sR:7750;" data-frame_hover="bgc:#11a9ea;bor:5px,5px,5px,5px;sp:100;e:power1.inOut;bri:100%;" style="z-index:12;background-color:#28bffe;font-family:Poppins;">Learn more </a>
-                                    <rs-layer id="slider-1-slide-2-layer-22" data-type="text" data-color="#f2ab41" data-rsp_ch="on" data-xy="xo:1467px,1467px,594px,594px;yo:208px,208px,83px,83px;" data-text="w:normal;s:12,12,4,4;l:25,25,9,9;ls:1px,1px,0px,0px;fw:700;" data-vbility="t,t,f,t"
-                                        data-frame_0="y:50,50,19,19;" data-frame_1="st:340;sp:1000;sR:340;" data-frame_999="o:0;st:w;sR:7660;" style="z-index:15;font-family:Poppins;">
-                                        SINCE 2009
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-23" data-type="text" data-color="#28bffe" data-rsp_ch="on" data-xy="xo:1466px,1466px,593px,593px;yo:156px,156px,63px,63px;" data-text="w:normal;s:48,48,18,18;l:48,48,18,18;fw:600;" data-vbility="t,t,f,t" data-frame_0="y:50,50,19,19;"
-                                        data-frame_1="st:320;sp:1000;sR:320;" data-frame_999="o:0;st:w;sR:7680;" style="z-index:14;font-family:Poppins;">
-                                        36 cars
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-24" data-type="text" data-rsp_ch="on" data-xy="xo:1467px,1467px,594px,594px;yo:455px,455px,183px,183px;" data-text="w:normal;s:12,12,4,4;l:25,25,9,9;ls:2px,2px,0px,0px;fw:700;" data-vbility="t,t,f,t" data-frame_0="y:50,50,19,19;"
-                                        data-frame_1="st:500;sp:1000;sR:500;" data-frame_999="o:0;st:w;sR:7500;" style="z-index:19;font-family:Poppins;">
-                                        EXPERIENCE
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-25" data-type="text" data-rsp_ch="on" data-xy="xo:1466px,1466px,593px,593px;yo:124px,124px,50px,50px;" data-text="w:normal;s:12,12,4,4;l:25,25,9,9;ls:2px,2px,0px,0px;fw:700;" data-vbility="t,t,f,t" data-frame_0="y:50,50,19,19;"
-                                        data-frame_1="st:300;sp:1000;sR:300;" data-frame_999="o:0;st:w;sR:7700;" style="z-index:13;font-family:Poppins;">
-                                        RALLY CARS
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-26" data-type="text" data-color="#28bffe" data-rsp_ch="on" data-xy="xo:1468px,1468px,594px,594px;yo:317px,317px,128px,128px;" data-text="w:normal;s:48,48,18,18;l:48,48,18,18;fw:600;" data-vbility="t,t,f,t" data-frame_0="y:50,50,19,19;"
-                                        data-frame_1="st:420;sp:1000;sR:420;" data-frame_999="o:0;st:w;sR:7580;" style="z-index:17;font-family:Poppins;">
-                                        124
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-27" data-type="text" data-color="#f2ab41" data-rsp_ch="on" data-xy="xo:1467px,1467px,594px,594px;yo:369px,369px,148px,148px;" data-text="w:normal;s:12,12,4,4;l:25,25,9,9;ls:1px,1px,0px,0px;fw:700;" data-vbility="t,t,f,t"
-                                        data-frame_0="y:50,50,19,19;" data-frame_1="st:440;sp:1000;sR:440;" data-frame_999="o:0;st:w;sR:7560;" style="z-index:18;font-family:Poppins;">
-                                        WRC, ERC, RSMP
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-28" data-type="text" data-rsp_ch="on" data-xy="xo:1468px,1468px,594px,594px;yo:289px,289px,117px,117px;" data-text="w:normal;s:12,12,4,4;l:25,25,9,9;ls:2px,2px,0px,0px;fw:700;" data-vbility="t,t,f,t" data-frame_0="y:50,50,19,19;"
-                                        data-frame_1="st:400;sp:1000;sR:400;" data-frame_999="o:0;st:w;sR:7600;" style="z-index:16;font-family:Poppins;">
-                                        RALLIES
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-29" data-type="text" data-color="#28bffe" data-rsp_ch="on" data-xy="xo:1468px,1468px,594px,594px;yo:483px,483px,195px,195px;" data-text="w:normal;s:48,48,18,18;l:48,48,18,18;fw:600;" data-vbility="t,t,f,t" data-frame_0="y:50,50,19,19;"
-                                        data-frame_1="st:520;sp:1000;sR:520;" data-frame_999="o:0;st:w;sR:7480;" style="z-index:20;font-family:Poppins;">
-                                        18 years
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-30" data-type="text" data-color="#f2ab41" data-rsp_ch="on" data-xy="xo:1468px,1468px,594px,594px;yo:537px,537px,217px,217px;" data-text="w:normal;s:12,12,4,4;l:25,25,9,9;ls:1px,1px,0px,0px;fw:700;" data-vbility="t,t,f,t"
-                                        data-frame_0="y:50,50,19,19;" data-frame_1="st:540;sp:1000;sR:540;" data-frame_999="o:0;st:w;sR:7460;" style="z-index:21;font-family:Poppins;">
-                                        SINCE 2002
-                                    </rs-layer>
-                                    <rs-layer id="slider-1-slide-2-layer-31" data-type="text" data-color="#8d8e8e" data-rsp_ch="on" data-xy="xo:1468px,1468px,594px,594px;yo:614px,614px,248px,248px;" data-text="w:normal;s:14,14,5,5;l:25,25,9,9;" data-dim="w:250px,250px,101px,101px;" data-vbility="t,t,f,t"
-                                        data-frame_0="y:50,50,19,19;" data-frame_1="st:600;sp:1000;sR:600;" data-frame_999="o:0;st:w;sR:7400;" style="z-index:22;font-family:Poppins;">
-                                        Quisque lorem tortor fringilla sed, vestibulum id eleifend justo.
-                                    </rs-layer>
-                                </rs-slide>
-                            </rs-slides>
-                            <rs-static-layers>
-                                <rs-layer id="slider-1-slide-1-layer-12" class="rs-layer-static" data-type="image" data-rsp_ch="on" data-xy="y:m;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:124px,124px,50px,50px;h:121px,121px,48px,48px;" data-basealign="slide" data-onslides="s:1;"
-                                    data-frame_999="o:0;st:w;sR:8700;" style="z-index:11;"><img src="content/mechanic6/images/mechanic6-slider-pic1.png" width="124" height="121" data-no-retina>
-                                </rs-layer>
-                                <rs-layer id="slider-1-slide-1-layer-13" class="rs-layer-static" data-type="image" data-rsp_ch="on" data-xy="x:r;y:m;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:128px,128px,51px,51px;h:110px,110px,44px,44px;" data-basealign="slide" data-onslides="s:1;"
-                                    data-frame_999="o:0;st:w;sR:8700;" style="z-index:12;"><img src="content/mechanic6/images/mechanic6-slider-pic2.png" width="128" height="110" data-no-retina>
-                                </rs-layer>
-                                <rs-layer id="slider-1-slide-1-layer-14" class="rs-layer-static" data-type="text" data-rsp_ch="on" data-xy="x:c;y:b;yo:25px;" data-text="w:normal;s:20,20,20,20;l:48;fw:900;a:center;" data-dim="w:48px;h:48px;" data-actions="o:click;a:scrollbelow;sp:1000ms;e:power1.inOut;"
-                                    data-onslides="s:1;" data-border="bor:48px,48px,48px,48px;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;st:700;sp:1000;sR:700;" data-frame_999="o:0;st:w;sR:7300;" data-frame_hover="sX:1.1;sY:1.1;bgc:#e59b2d;bor:48px,48px,48px,48px;"
-                                    style="z-index:10;background-color:#f2ab41;font-family:Roboto;cursor:pointer;">
-                                    <i class="icon-down-open"></i>
-                                </rs-layer>
-                                <rs-layer id="slider-1-slide-1-layer-15" class="rs-layer-static" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:b;yo:90px;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:6px;h:6px;" data-onslides="s:1;"
-                                    data-border="bor:6px,6px,6px,6px;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;st:650;sp:1000;sR:650;" data-frame_999="o:0;st:w;sR:7350;" style="z-index:9;background-color:#f2ab41;"></rs-layer>
-                                <rs-layer id="slider-1-slide-1-layer-16" class="rs-layer-static" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:b;yo:110px;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:6px;h:6px;" data-onslides="s:1;"
-                                    data-border="bor:6px,6px,6px,6px;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;st:600;sp:1000;sR:600;" data-frame_999="o:0;st:w;sR:7400;" style="z-index:8;background-color:#f2ab41;"></rs-layer>
-                            </rs-static-layers>
-                        </rs-module>
-
-                    </rs-module-wrap>
-                </div>
+ 
             </header>
         </div>
                     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
@@ -175,181 +92,10 @@
                                     <div data-elementor-type="wp-page" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
                                         <div class="elementor-inner">
                                             <div class="elementor-section-wrap">
-                                                <section class="elementor-element elementor-element-e39dcaf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e39dcaf" data-element_type="section"
-                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-container elementor-column-gap-wider">
-                                                        <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-7f2e11f elementor-column elementor-col-100 elementor-top-column" data-id="7f2e11f" data-element_type="column">
-                                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                                    <div class="elementor-widget-wrap">
-                                                                        <section class="elementor-element elementor-element-4209dfe elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4209dfe" data-element_type="section">
-                                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                                <div class="elementor-row">
-                                                                                    <div class="elementor-element elementor-element-f702079 elementor-column elementor-col-33 elementor-inner-column" data-id="f702079" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-6399336 elementor-widget elementor-widget-text-editor" data-id="6399336" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="elementor-element elementor-element-af18f15 elementor-column elementor-col-33 elementor-inner-column" data-id="af18f15" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-77f50c7 elementor-widget elementor-widget-text-editor" data-id="77f50c7" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="elementor-element elementor-element-3f0235c elementor-column elementor-col-33 elementor-inner-column" data-id="3f0235c" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-4cdd1dd elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="4cdd1dd" data-element_type="widget" data-widget_type="social-icons.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-social-icons-wrapper">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </section>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </section>
-                                                <section class="elementor-element elementor-element-ad15b20 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ad15b20" data-element_type="section"
-                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-container elementor-column-gap-wider">
-                                                        <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-a51f811 elementor-column elementor-col-100 elementor-top-column" data-id="a51f811" data-element_type="column">
-                                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                                    <div class="elementor-widget-wrap">
-                                                                        <section class="elementor-element elementor-element-fb33a53 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="fb33a53" data-element_type="section">
-                                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                                <div class="elementor-row">
-                                                                                    <div class="elementor-element elementor-element-e1a4496 elementor-column elementor-col-100 elementor-inner-column" data-id="e1a4496" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-a1caa16 elementor-widget elementor-widget-text-editor" data-id="a1caa16" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-71f72aa elementor-widget elementor-widget-spacer" data-id="71f72aa" data-element_type="widget" data-widget_type="spacer.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-spacer">
-                                                                                                            <div class="elementor-spacer-inner"></div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </section>
-                                                                        <section class="elementor-element elementor-element-33b02e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="33b02e8" data-element_type="section">
-                                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                                <div class="elementor-row">
-                                                                                    <div class="elementor-element elementor-element-eb5f95e elementor-column elementor-col-50 elementor-inner-column" data-id="eb5f95e" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-72923de elementor-widget elementor-widget-text-editor" data-id="72923de" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-bf37ae7 elementor-widget elementor-widget-image" data-id="bf37ae7" data-element_type="widget" data-widget_type="image.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-image">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="elementor-element elementor-element-7ecd317 elementor-column elementor-col-50 elementor-inner-column" data-id="7ecd317" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-7715409 elementor-widget elementor-widget-text-editor" data-id="7715409" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-1befc2d elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1befc2d" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <ul class="elementor-icon-list-items">
-                                                                                                        </ul>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-bd2de56 elementor-widget elementor-widget-spacer" data-id="bd2de56" data-element_type="widget" data-widget_type="spacer.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-spacer">
-                                                                                                            <div class="elementor-spacer-inner"></div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-5b17733 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="5b17733" data-element_type="widget" data-widget_type="button.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-button-wrapper">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-bf21982 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="bf21982" data-element_type="widget" data-widget_type="button.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-button-wrapper">
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </section>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </section>
-                                                <section class="elementor-element elementor-element-54fe3b1 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="54fe3b1" data-element_type="section"
-                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-container elementor-column-gap-default">
-                                                        <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-16e9ddd elementor-column elementor-col-50 elementor-top-column" data-id="16e9ddd" data-element_type="column">
-                                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                                    <div class="elementor-widget-wrap">
-                                                                        
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-6edcde5 elementor-column elementor-col-50 elementor-top-column" data-id="6edcde5" data-element_type="column">
-                                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                                    <div class="elementor-widget-wrap">
-                                                                        
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </section>
+                                                
+                                                
+                                                
+
                                                 <section class="elementor-element elementor-element-c39abec elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c39abec" data-element_type="section"
                                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                                     <div class="elementor-container elementor-column-gap-wider">
@@ -366,7 +112,10 @@
                                                                                                 <div class="elementor-element elementor-element-432b062 elementor-widget elementor-widget-text-editor" data-id="432b062" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                            <h6>OUR PROJECTS</h6>
+                                                                                                            <h2>Take a look at <span style="color: #f2ab41;">some examples
+																													<br>
+																												</span> of cars we&#8217;ve made</h2>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -392,20 +141,29 @@
                                                                                                 <div class="elementor-element elementor-element-bc5ca1a elementor-widget elementor-widget-image" data-id="bc5ca1a" data-element_type="widget" data-widget_type="image.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-image">
+                                                                                                            <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic1.jpg" class="attachment-large size-large" alt>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-98c2e25 elementor-widget elementor-widget-text-editor" data-id="98c2e25" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                              <h4>Nissan Patrol</h4>
+                                                                                                            <p>
+                                                                                                                2013, 2.0 ON 145KM
+                                                                                                            </p>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-ee386e8 elementor-widget elementor-widget-text-editor" data-id="ee386e8" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                             <h6 style="margin-bottom: 5px;">HORSEPOWER</h6>
+                                                                                                            <h4>184 <sup>KM <span style="color: #f2ab41;">+20%</span></sup></h4>
+                                                                                                            <h6>TORQUE</h6>
+                                                                                                            <h4>293 <sup>NM <span style="color: #f2ab41;">+29%</span></sup></h4>
+                                                                                                            <h6>MAX SPEED</h6>
+                                                                                                            <h4>220 <sup>KM/H <span style="color: #f2ab41;">+17%</span></sup></h4>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -418,20 +176,29 @@
                                                                                                 <div class="elementor-element elementor-element-a3cbdb8 elementor-widget elementor-widget-image" data-id="a3cbdb8" data-element_type="widget" data-widget_type="image.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-image">
+                                                                                                            <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic2.jpg" class="attachment-large size-large" alt>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-2a6ad8f elementor-widget elementor-widget-text-editor" data-id="2a6ad8f" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                             <h4>Audi TT</h4>
+                                                                                                            <p>
+                                                                                                                2018, 2.0 PB 220KM
+                                                                                                            </p>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-51e4832 elementor-widget elementor-widget-text-editor" data-id="51e4832" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                            <h6 style="margin-bottom: 5px;">HORSEPOWER</h6>
+                                                                                                            <h4>265 <sup>KM <span style="color: #f2ab41;">+20%</span></sup></h4>
+                                                                                                            <h6>TORQUE</h6>
+                                                                                                            <h4>314 <sup>NM <span style="color: #f2ab41;">+29%</span></sup></h4>
+                                                                                                            <h6>MAX SPEED</h6>
+                                                                                                            <h4>240 <sup>KM/H <span style="color: #f2ab41;">+17%</span></sup></h4>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -444,21 +211,29 @@
                                                                                                 <div class="elementor-element elementor-element-b0b5a7b elementor-widget elementor-widget-image" data-id="b0b5a7b" data-element_type="widget" data-widget_type="image.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-image">
-
+                                                                                                            <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic4.jpg" class="attachment-large size-large" alt>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-5c730d7 elementor-widget elementor-widget-text-editor" data-id="5c730d7" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                             <h4>Porsche Panamera</h4>
+                                                                                                            <p>
+                                                                                                                2017, 3.6 PB 310KM
+                                                                                                            </p>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-ff0c1bb elementor-widget elementor-widget-text-editor" data-id="ff0c1bb" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-
+                                                                                                             <h6 style="margin-bottom: 5px;">HORSEPOWER</h6>
+                                                                                                            <h4>348 <sup>KM <span style="color: #f2ab41;">+20%</span></sup></h4>
+                                                                                                            <h6>TORQUE</h6>
+                                                                                                            <h4>510 <sup>NM <span style="color: #f2ab41;">+29%</span></sup></h4>
+                                                                                                            <h6>MAX SPEED</h6>
+                                                                                                            <h4>264 <sup>KM/H <span style="color: #f2ab41;">+17%</span></sup></h4>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -539,20 +314,6 @@
                                                         </div>
                                                     </div>
                                                 </section>
-                                                <section class="elementor-element elementor-element-f27abaf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f27abaf" data-element_type="section"
-                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-container elementor-column-gap-default">
-                                                        <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-76014cc elementor-column elementor-col-100 elementor-top-column" data-id="76014cc" data-element_type="column">
-                                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                                    <div class="elementor-widget-wrap">
-                                                                        
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </section>
                                             </div>
                                         </div>
                                     </div>
@@ -577,6 +338,82 @@
     </div>
     <div id="body_overlay"></div>
 
+    <footer id="Footer" class="clearfix">
+            <div class="widgets_wrapper center">
+                <div class="container">
+                    <div class="column one-second">
+                        <aside class="widget_text widget widget_custom_html">
+                            <div class="textwidget custom-html-widget">
+                                <h6>QUICK LINKS</h6>
+                                <hr class="no_line" style="margin:0 auto 5px">
+                                <div class="column one-second">
+                                    <ul>
+                                        <li>
+                                            <a href="#">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Our garage</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Chip tuning</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="column one-second">
+                                    <ul>
+                                        <li>
+                                            <a href="#">Rally cars</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Our projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <div class="textwidget custom-html-widget">
+                                <h6>OUR ADDRESS</h6>
+                                <hr class="no_line" style="margin:0 auto 5px">
+                                <p>
+                                    Level 13, 2 Elizabeth St,
+                                    <br> Melbourne, Victoria 3000,
+                                    <br> Australia
+                                </p>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <div class="textwidget custom-html-widget">
+                                <h6>OPENING HOURS</h6>
+                                <hr class="no_line" style="margin:0 auto 5px">
+                                <p>
+                                    <span style="color: #ccc;">Mon - Fri:</span> 6 AM - 10 PM
+                                    <br>
+                                    <span style="color: #ccc;">Sat - Sun:</span> 8 AM - 08 PM
+                                </p>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copy">
+                <div class="container">
+                    <div class="column one">
+                        <a id="back_to_top" class="button button_js" href><i class="icon-up-open-big"></i></a>
+                        <div class="copyright">
+                            &copy; 2020 BeMechanic 6 - BeTheme. Muffin group - HTML by <a target="_blank" rel="nofollow" href="https://1.envato.market/9ZxXY">BeantownThemes</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
 
 
 

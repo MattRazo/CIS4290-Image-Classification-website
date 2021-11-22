@@ -11,14 +11,14 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class Link_to_Images
+Partial Public Class WebForm1
 
     '''<summary>
-    '''hlImageSet1A control.
+    '''lblImgSet1Code control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents hlImageSet1A As Global.System.Web.UI.WebControls.HyperLink
+    Protected WithEvents lblImgSet1Code As Global.System.Web.UI.WebControls.Label
 End Class

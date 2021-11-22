@@ -2,5 +2,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    Link Page Info Goes Here.
+  Image Set 1 A: This image set includes folders kitchen, living room, bathroom, and bedroom.  
+    <br /> Link: <asp:HyperLink ID="hlImageSet1A" runat="server">https://livecsupomona-my.sharepoint.com/:f:/r/personal/jozelleang_cpp_edu/Documents/CIS4290?csf=1&web=1&e=UsnoCn</asp:HyperLink>
 </asp:Content>
