@@ -10,3 +10,6 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder3" runat="server">
 <li><a href="https://drive.google.com/drive/folders/1gKXtXPLFGEFJyOoAqDRHEXCr8p2ZlM18?usp=sharing" target="_blank"> Link to Image Set 3</a></li>
 </asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="ContentPlaceHolder10" runat="server">
+<li><a href="https://livecsupomona-my.sharepoint.com/:f:/r/personal/marazo_cpp_edu/Documents/Train-Exterior-Interior?csf=1&web=1&e=5rHrL9" target="_blank"> Link to Image Set 1 Part 2- Exterior and Interior</a></li>
+</asp:Content>

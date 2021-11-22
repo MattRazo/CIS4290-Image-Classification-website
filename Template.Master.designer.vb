@@ -41,6 +41,15 @@ Partial Public Class Template
     Protected WithEvents ContentPlaceHolder5 As Global.System.Web.UI.WebControls.ContentPlaceHolder
 
     '''<summary>
+    '''ContentPlaceHolder8 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ContentPlaceHolder8 As Global.System.Web.UI.WebControls.ContentPlaceHolder
+
+    '''<summary>
     '''ContentPlaceHolder1 control.
     '''</summary>
     '''<remarks>
@@ -48,6 +57,15 @@ Partial Public Class Template
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents ContentPlaceHolder1 As Global.System.Web.UI.WebControls.ContentPlaceHolder
+
+    '''<summary>
+    '''ContentPlaceHolder10 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ContentPlaceHolder10 As Global.System.Web.UI.WebControls.ContentPlaceHolder
 
     '''<summary>
     '''ContentPlaceHolder2 control.
@@ -66,4 +84,31 @@ Partial Public Class Template
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents ContentPlaceHolder3 As Global.System.Web.UI.WebControls.ContentPlaceHolder
+
+    '''<summary>
+    '''ContentPlaceHolder9 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ContentPlaceHolder9 As Global.System.Web.UI.WebControls.ContentPlaceHolder
+
+    '''<summary>
+    '''ContentPlaceHolder6 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ContentPlaceHolder6 As Global.System.Web.UI.WebControls.ContentPlaceHolder
+
+    '''<summary>
+    '''ContentPlaceHolder7 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ContentPlaceHolder7 As Global.System.Web.UI.WebControls.ContentPlaceHolder
 End Class
