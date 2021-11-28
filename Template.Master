@@ -78,8 +78,6 @@
  
             </header>
         </div>
-                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
         <div id="Content">
             
 
@@ -93,7 +91,8 @@
                                         <div class="elementor-inner">
                                             <div class="elementor-section-wrap">
                                                 
-                                                
+                                                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
                                                 
 
                                                 <section class="elementor-element elementor-element-c39abec elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c39abec" data-element_type="section"
@@ -115,7 +114,7 @@
                                                                                                             <h6>OUR PROJECTS</h6>
                                                                                                             <h2>Take a look at <span style="color: #f2ab41;">some examples
 																													<br>
-																												</span> of cars we&#8217;ve made</h2>
+																												</span> of Images we&#8217;ve classified with a high degree of accuracy</h2>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
