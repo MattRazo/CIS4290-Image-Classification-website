@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Temple2.master.vb" Inherits="CIS4290_Image_Classification_website.Temple2" %>
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Template2.master.vb" Inherits="CIS4290_Image_Classification_website.Template2" %>
 
 <!DOCTYPE html>
 
@@ -7,7 +7,7 @@
 
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>Data Set</title>
+    <title>Be</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -29,6 +29,7 @@
     <link rel='stylesheet' href='css/custom.css'>
 
 </head>
+
 <body class="page-template-default page  color-custom style-default button-default layout-full-width if-border-hide no-content-padding is-elementor header-classic header-fw minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-lc tablet-sticky mobile-header-mini mobile-sticky be-reg-2178 elementor-default elementor-kit-29 elementor-page elementor-page-11">
     <div id="Wrapper">
         <div id="Header_wrapper">
@@ -38,26 +39,22 @@
                     <div class="container">
                         <div class="column one">
                             <div class="top_bar_left clearfix">
-                                <div class="logo">
-                                    <a id="logo" href="../../index-mechanic6.html" title="BeMechanic 6 - Betheme" data-height="60" data-padding="30"><img class="logo-main scale-with-grid" src="images/mechanic6.png" data-retina="images/retina-mechanic6.png" data-height="46" alt="mechanic6" data-no-retina><img class="logo-sticky scale-with-grid" src="images/mechanic6.png" data-retina="images/retina-mechanic6.png" data-height="46" alt="mechanic6" data-no-retina><img class="logo-mobile scale-with-grid" src="images/mechanic6.png" data-retina="images/retina-mechanic6.png" data-height="46" alt="mechanic6" data-no-retina><img class="logo-mobile-sticky scale-with-grid" src="images/mechanic6.png" data-retina="images/retina-mechanic6.png" data-height="46" alt="mechanic6" data-no-retina></a>
-                                </div>
+                               
                                 <div class="menu_wrapper">
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu menu-main">
-                                            <li>
-                                                <a href="../../index-mechanic6.html"><span>Home</span></a>
-                                            </li>
+                                            
                                             <li class="current-menu-item">
-                                                <a href="about.html"><span>About us</span></a>
+                                                <a href="Default.aspx"><span>Home</span></a>
+                                            </li>
+                                             <li>
+                                                <a href="Result1.aspx"><span>Data set 1</span></a>
                                             </li>
                                             <li>
-                                                <a href="our-services.html"><span>Our services</span></a>
+                                                <a href="Result2.aspx"><span>Data set 2</span></a>
                                             </li>
                                             <li>
-                                                <a href="our-projects.html"><span>Our projects</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="contact.html"><span>Contact</span></a>
+                                                <a href="Result3.aspx"><span>Data set 3</span></a>
                                             </li>
                                         </ul>
                                     </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
