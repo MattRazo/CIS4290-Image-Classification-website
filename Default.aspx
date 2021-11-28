@@ -75,14 +75,14 @@
                             <div class="elementor-element elementor-element-a3cbdb8 elementor-widget elementor-widget-image" data-id="a3cbdb8" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
-  <!--Image set 2-->                    <img width="536" height="536" src="content/mechanic6/images/img2_logo.jpg" class="attachment-large size-large" >
+  <!--Image set 2-->                <a href="Result2.aspx" >   <img width="536" height="536" src="content/mechanic6/images/img2_logo.jpg" class="attachment-large size-large" > </a>
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-2a6ad8f elementor-widget elementor-widget-text-editor" data-id="2a6ad8f" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                            <h4>Image Set 2</h4>                                                                
+                                        <a href="Result2.aspx" >    <h4>Image Set 2</h4> </a>                                                                
                                     </div>
                                 </div>
                             </div>
@@ -107,14 +107,14 @@
                             <div class="elementor-element elementor-element-b0b5a7b elementor-widget elementor-widget-image" data-id="b0b5a7b" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
- <!--Image set 3-->                     <img width="512" height="512" src="content/mechanic6/images/img3_logo.jpg" class="attachment-large size-large" alt>
+ <!--Image set 3-->                    <a href="Result3.aspx" > <img width="512" height="512" src="content/mechanic6/images/img3_logo.jpg" class="attachment-large size-large"> </a>
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-5c730d7 elementor-widget elementor-widget-text-editor" data-id="5c730d7" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                            <h4>Image Set 3</h4>
+                                         <a href="Result3.aspx" >   <h4>Image Set 3</h4> </a>
                                     </div>
                                 </div>
                             </div>
