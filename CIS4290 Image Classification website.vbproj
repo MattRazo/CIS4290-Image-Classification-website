@@ -94,6 +94,7 @@
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Link to Images.aspx" />
+    <Content Include="Result1.aspx" />
     <Content Include="Results.aspx" />
     <Content Include="Web.config" />
     <Content Include="imgSet1.aspx" />
@@ -141,6 +142,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Result1.aspx.designer.vb">
+      <DependentUpon>Result1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Result1.aspx.vb">
+      <DependentUpon>Result1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Results.aspx.designer.vb">
       <DependentUpon>Results.aspx</DependentUpon>

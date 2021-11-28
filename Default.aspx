@@ -42,14 +42,15 @@
                             <div class="elementor-element elementor-element-bc5ca1a elementor-widget elementor-widget-image" data-id="bc5ca1a" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
-                                     <a href =""   <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic1.jpg" class="attachment-large size-large"> </a>
+
+                                     <a href="Result1.aspx"  ><img width="780" height="530" src="content/mechanic6/images/img1_logo.jpg" class="attachment-large size-large"> </a>
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-98c2e25 elementor-widget elementor-widget-text-editor" data-id="98c2e25" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-   <!--Image Set 1 -->                <a href="">  <h4> Image Set 1</h4> </a>
+   <!--Image Set 1 -->                <a href="Result1.aspx">  <h4> Image Set 1</h4> </a>
                                     </div>
                                 </div>
                             </div>
@@ -136,6 +137,7 @@
             </div>
         </div>
     </section>
+
     <section class="elementor-element elementor-element-aeaaf50 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="aeaaf50" data-element_type="section">
         <div class="elementor-container elementor-column-gap-default">
             <div class="elementor-row">
@@ -169,6 +171,7 @@
             </div>
         </div>
     </section>
+
     <section class="elementor-element elementor-element-7d6fab8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7d6fab8" data-element_type="section">
         <div class="elementor-container elementor-column-gap-default">
             <div class="elementor-row">
@@ -188,6 +191,7 @@
             </div>
         </div>
     </section>
+
     <section class="elementor-element elementor-element-9ef7fc3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="9ef7fc3" data-element_type="section">
         <div class="elementor-container elementor-column-gap-default">
             <div class="elementor-row">
@@ -201,4 +205,5 @@
             </div>
         </div>
     </section>
+
 </asp:Content>
