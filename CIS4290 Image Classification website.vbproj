@@ -97,7 +97,6 @@
     <Content Include="Result1.aspx" />
     <Content Include="Result2.aspx" />
     <Content Include="Result3.aspx" />
-    <Content Include="Results.aspx" />
     <Content Include="Web.config" />
     <Content Include="imgSet1.aspx" />
   </ItemGroup>
@@ -164,13 +163,6 @@
     </Compile>
     <Compile Include="Result3.aspx.vb">
       <DependentUpon>Result3.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="Results.aspx.designer.vb">
-      <DependentUpon>Results.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Results.aspx.vb">
-      <DependentUpon>Results.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Template.Master.designer.vb">
