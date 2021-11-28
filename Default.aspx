@@ -107,26 +107,26 @@
                             <div class="elementor-element elementor-element-b0b5a7b elementor-widget elementor-widget-image" data-id="b0b5a7b" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
- <!--Image set 3-->                     <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic4.jpg" class="attachment-large size-large" alt>
+ <!--Image set 3-->                     <img width="512" height="512" src="content/mechanic6/images/img3_logo.jpg" class="attachment-large size-large" alt>
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-5c730d7 elementor-widget elementor-widget-text-editor" data-id="5c730d7" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                            <h4>image Set 3</h4>
+                                            <h4>Image Set 3</h4>
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-ff0c1bb elementor-widget elementor-widget-text-editor" data-id="ff0c1bb" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                            <h6 style="margin-bottom: 5px;">HORSEPOWER</h6>
-                                        <h4>348 <sup>KM <span style="color: #f2ab41;">+20%</span></sup></h4>
-                                        <h6>TORQUE</h6>
-                                        <h4>510 <sup>NM <span style="color: #f2ab41;">+29%</span></sup></h4>
-                                        <h6>MAX SPEED</h6>
-                                        <h4>264 <sup>KM/H <span style="color: #f2ab41;">+17%</span></sup></h4>
+                                            <h6 style="margin-bottom: 5px;">TYPE</h6>
+                                        <h4>Animals</h4>
+                                        <h6>INITIAL VALIDATION</h6>
+                                        <h4>Google Collabs <sup><span style="color: #f2ab41;">97%</span></sup></h4>
+                                        <h6>FINISHED VALIDATION</h6>
+                                        <h4>Google Collabs <sup>KM/H <span style="color: #f2ab41;">100%</span></sup></h4>
                                     </div>
                                 </div>
                             </div>
