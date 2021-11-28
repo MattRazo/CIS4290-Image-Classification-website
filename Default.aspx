@@ -43,7 +43,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
 
-                                     <a href="Result1.aspx"  ><img width="780" height="530" src="content/mechanic6/images/img1_logo.jpg" class="attachment-large size-large"> </a>
+                                     <a href="Result1.aspx"  ><img width="256" height="256" src="content/mechanic6/images/img1_logo.jpg" class="attachment-large size-large"> </a>
                                     </div>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@
                                         <h6>INITIAL VALIDATION</h6>
                                         <h4>Fail on Collabs <sup><span style="color: #f2ab41;">47%</span></sup></h4>
                                         <h6>FINISHED VALIDATION</h6>
-                                        <h4>Finished with Pycharm <sup> <span style="color: #f2ab41;">67%</span></sup></h4>
+                                        <h4>Finished on Pycharm <sup> <span style="color: #f2ab41;">67%</span></sup></h4>
                                     </div>
                                 </div>
                             </div>
@@ -75,27 +75,26 @@
                             <div class="elementor-element elementor-element-a3cbdb8 elementor-widget elementor-widget-image" data-id="a3cbdb8" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
-                                        <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic2.jpg" class="attachment-large size-large" alt>
+  <!--Image set 2-->                    <img width="536" height="536" src="content/mechanic6/images/img2_logo.jpg" class="attachment-large size-large" >
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-2a6ad8f elementor-widget elementor-widget-text-editor" data-id="2a6ad8f" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                            <h4>Image Set 2</h4>
-                                                                                                         
+                                            <h4>Image Set 2</h4>                                                                
                                     </div>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-51e4832 elementor-widget elementor-widget-text-editor" data-id="51e4832" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                        <h6 style="margin-bottom: 5px;">HORSEPOWER</h6>
-                                        <h4>265 <sup>KM <span style="color: #f2ab41;">+20%</span></sup></h4>
-                                        <h6>TORQUE</h6>
-                                        <h4>314 <sup>NM <span style="color: #f2ab41;">+29%</span></sup></h4>
-                                        <h6>MAX SPEED</h6>
-                                        <h4>240 <sup>KM/H <span style="color: #f2ab41;">+17%</span></sup></h4>
+                                        <h6 style="margin-bottom: 5px;">TYPE</h6>
+                                        <h4>Simpsons Characters</h4>
+                                        <h6>INITIAL VALIDATION</h6>
+                                        <h4>Google Collabs <sup><span style="color: #f2ab41;">73%</span></sup></h4>
+                                        <h6>FINISHED VALIDATION</h6>
+                                        <h4>Google Collabs <sup><span style="color: #f2ab41;">100%</span></sup></h4>
                                     </div>
                                 </div>
                             </div>
@@ -108,7 +107,7 @@
                             <div class="elementor-element elementor-element-b0b5a7b elementor-widget elementor-widget-image" data-id="b0b5a7b" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
-                                        <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic4.jpg" class="attachment-large size-large" alt>
+ <!--Image set 3-->                     <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic4.jpg" class="attachment-large size-large" alt>
                                     </div>
                                 </div>
                             </div>
