@@ -43,7 +43,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
 
-                                     <a href="Result1.aspx"  ><img width="256" height="256" src="content/mechanic6/images/img1_logo.jpg" class="attachment-large size-large"> </a>
+                                     <a href="Result1.aspx"  ><img width="512" height="512" src="content/mechanic6/images/img1_logo.jpg" class="attachment-large size-large"> </a>
                                     </div>
                                 </div>
                             </div>
