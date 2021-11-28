@@ -42,7 +42,7 @@
                             <div class="elementor-element elementor-element-bc5ca1a elementor-widget elementor-widget-image" data-id="bc5ca1a" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-image">
-                                        <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic1.jpg" class="attachment-large size-large" alt>
+                                     <a href =""   <img width="780" height="530" src="content/mechanic6/images/mechanic6-portfolio-pic1.jpg" class="attachment-large size-large"> </a>
                                     </div>
                                 </div>
                             </div>
@@ -56,12 +56,12 @@
                             <div class="elementor-element elementor-element-ee386e8 elementor-widget elementor-widget-text-editor" data-id="ee386e8" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-text-editor elementor-clearfix">
-                                            <h6 style="margin-bottom: 5px;">HORSEPOWER</h6>
-                                        <h4>184 <sup>KM <span style="color: #f2ab41;">+20%</span></sup></h4>
-                                        <h6>TORQUE</h6>
-                                        <h4>293 <sup>NM <span style="color: #f2ab41;">+29%</span></sup></h4>
-                                        <h6>MAX SPEED</h6>
-                                        <h4>220 <sup>KM/H <span style="color: #f2ab41;">+17%</span></sup></h4>
+                                            <h6 style="margin-bottom: 5px;">TYPE</h6>
+                                        <h4>House rooms</h4>
+                                        <h6>INITIAL VALIDATION</h6>
+                                        <h4>Fail on Collabs <sup><span style="color: #f2ab41;">47%</span></sup></h4>
+                                        <h6>FINISHED VALIDATION</h6>
+                                        <h4>Finished with Pycharm <sup> <span style="color: #f2ab41;">67%</span></sup></h4>
                                     </div>
                                 </div>
                             </div>
