@@ -126,78 +126,10 @@
                                         <h6>INITIAL VALIDATION</h6>
                                         <h4>Google Collabs <sup><span style="color: #f2ab41;">97%</span></sup></h4>
                                         <h6>FINISHED VALIDATION</h6>
-                                        <h4>Google Collabs <sup>KM/H <span style="color: #f2ab41;">100%</span></sup></h4>
+                                        <h4>Google Collabs <sup><span style="color: #f2ab41;">100%</span></sup></h4>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="elementor-element elementor-element-aeaaf50 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="aeaaf50" data-element_type="section">
-        <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-row">
-                <div class="elementor-element elementor-element-925ba06 elementor-column elementor-col-100 elementor-inner-column" data-id="925ba06" data-element_type="column">
-                    <div class="elementor-column-wrap  elementor-element-populated">
-                        <div class="elementor-widget-wrap">
-                            <div class="elementor-element elementor-element-ea1c8cb elementor-widget elementor-widget-spacer" data-id="ea1c8cb" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-f2871a9 elementor-widget elementor-widget-text-editor" data-id="f2871a9" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-text-editor elementor-clearfix">
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-647323a elementor-align-center elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="647323a" data-element_type="widget" data-widget_type="button.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="elementor-element elementor-element-7d6fab8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7d6fab8" data-element_type="section">
-        <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-row">
-                <div class="elementor-element elementor-element-43af7ba elementor-column elementor-col-100 elementor-inner-column" data-id="43af7ba" data-element_type="column">
-                    <div class="elementor-column-wrap  elementor-element-populated">
-                        <div class="elementor-widget-wrap">
-                            <div class="elementor-element elementor-element-20048f8 elementor-widget elementor-widget-spacer" data-id="20048f8" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="elementor-element elementor-element-9ef7fc3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="9ef7fc3" data-element_type="section">
-        <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-row">
-                <div class="elementor-element elementor-element-ffc1096 elementor-column elementor-col-100 elementor-inner-column" data-id="ffc1096" data-element_type="column">
-                    <div class="elementor-column-wrap  elementor-element-populated">
-                        <div class="elementor-widget-wrap">
-                                                                                                
                         </div>
                     </div>
                 </div>

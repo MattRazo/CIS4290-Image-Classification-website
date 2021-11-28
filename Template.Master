@@ -54,13 +54,13 @@
                                                 <a href="Default.aspx"><span>Home</span></a>
                                             </li>
                                             <li>
-                                                <a href="Data Set.aspx"><span>Data Set</span></a>
+                                                <a href="Result1.aspx"><span>Data set 1</span></a>
                                             </li>
                                             <li>
-                                                <a href="Results.aspx"><span>Results</span></a>
+                                                <a href="Result2.aspx"><span>Data set 2</span></a>
                                             </li>
                                             <li>
-                                                <a href="Link to Images.aspx"><span>Link to Images</span></a>
+                                                <a href="Result3.aspx"><span>Data set 3</span></a>
                                             </li>
                                         </ul>
                                     </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
@@ -79,7 +79,6 @@
             </header>
         </div>
         <div id="Content">
-            
 
             <div class="content_wrapper clearfix">
                 <div class="sections_group">
