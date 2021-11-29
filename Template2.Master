@@ -117,42 +117,7 @@
                                                                         <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
 
                                                                         </asp:ContentPlaceHolder>
-       <!--ContentPlaceholder2-->                                          <section class="elementor-element elementor-element-7041b2d elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7041b2d" data-element_type="section"
-                                                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                                <div class="elementor-row">
-                                                                                    <div class="elementor-element elementor-element-3cd62a4 elementor-column elementor-col-50 elementor-inner-column" data-id="3cd62a4" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-5bfef91 elementor-widget elementor-widget-text-editor" data-id="5bfef91" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                            <h6>WHO WE ARE</h6>
-                                                                                                            <h2>Meet our
-                                                                                                                <br> professional
-                                                                                                                <br> team
-                                                                                                            </h2>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-36d46c4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="36d46c4" data-element_type="widget" data-widget_type="button.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-button-wrapper">
-                                                                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fab fa-instagram"></i> </span> <span class="elementor-button-text">Instagram</span> </span> </a>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="elementor-element elementor-element-5e8b02b elementor-column elementor-col-50 elementor-inner-column" data-id="5e8b02b" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap">
-                                                                                            <div class="elementor-widget-wrap"></div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </section>
+       <!--ContentPlaceholder2-->                                          
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -167,41 +132,6 @@
                                                             <div class="elementor-element elementor-element-e8827b1 elementor-column elementor-col-100 elementor-top-column" data-id="e8827b1" data-element_type="column">
                                                                 <div class="elementor-column-wrap  elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
-       <!--ContentPlaceholder 3-->                                      <section class="elementor-element elementor-element-256b6c8 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="256b6c8" data-element_type="section"
-                                                                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                                <div class="elementor-row">
-                                                                                    <div class="elementor-element elementor-element-c627701 elementor-column elementor-col-50 elementor-inner-column" data-id="c627701" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-e007905 elementor-widget elementor-widget-text-editor" data-id="e007905" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                            <h6>RALLY CARS</h6>
-                                                                                                            <h2>Motorsport &amp;
-                                                                                                                <br> Adrenaline are
-                                                                                                                <br> our passion</h2>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-484768e elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="484768e" data-element_type="widget" data-widget_type="button.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-button-wrapper">
-                                                                                                            <a href="our-projects.html" class="elementor-button-link elementor-button elementor-size-md" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See more</span> </span> </a>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="elementor-element elementor-element-ad06e77 elementor-column elementor-col-50 elementor-inner-column" data-id="ad06e77" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap">
-                                                                                            <div class="elementor-widget-wrap"></div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </section>
                                                                     </div>
                                                                 </div>
                                                             </div>
