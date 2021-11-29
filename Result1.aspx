@@ -104,7 +104,8 @@
             <div class="elementor-container elementor-column-gap-default">
                 <div class="elementor-row">
                     
-                    <img src="images/img1_Epoch.jpg"  />
+                    <img src="images/img1_Epoch.jpg"  /> 
+                    
                     <div class="elementor-element elementor-element-5e8b02b elementor-column elementor-col-50 elementor-inner-column" data-id="5e8b02b" data-element_type="column">
                         <div class="elementor-column-wrap">
                             <div class="elementor-widget-wrap"></div>
@@ -113,5 +114,20 @@
                 </div>
             </div>
         </section>
+    <section>
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-row">
+                    
+                    <img src="images/imgEx_Int_Epoch.jpg"  />
+                    
+                    <div class="elementor-element elementor-element-5e8b02b elementor-column elementor-col-50 elementor-inner-column" data-id="5e8b02b" data-element_type="column">
+                        <div class="elementor-column-wrap">
+                            <div class="elementor-widget-wrap"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
 </asp:Content>
 
