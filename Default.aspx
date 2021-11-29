@@ -136,8 +136,9 @@
                 </div>
                 
             </div>
-        </div>
-        <a href="https://github.com/MattRazo/CIS4290-Image-Set-Models" target="_blank"><h4><span style="color: #f2ab41;">Link to GitHub Code</span></h4></a>
+        </div> <br />
+        <a href="https://github.com/MattRazo/CIS4290-Image-Set-Models" target="_blank"><h4><span style="color: #f2ab41;">Link to GitHub Code</span></h4></a> <br />
+        <a href ="https://livecsupomona-my.sharepoint.com/:f:/r/personal/jozelleang_cpp_edu/Documents/CIS4290?csf=1&web=1&e=UsnoCn" target="_blank"><h4><span style="color: #f2ab41;">Link to Onedrive Photos</span></h4></a>
     </section>
 
 </asp:Content>
