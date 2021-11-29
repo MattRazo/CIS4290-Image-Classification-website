@@ -97,7 +97,6 @@
     <Content Include="Result1.aspx" />
     <Content Include="Result2.aspx" />
     <Content Include="Result3.aspx" />
-    <Content Include="Results.aspx" />
     <Content Include="Web.config" />
     <Content Include="imgSet1.aspx" />
   </ItemGroup>
@@ -166,13 +165,6 @@
       <DependentUpon>Result3.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Results.aspx.designer.vb">
-      <DependentUpon>Results.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Results.aspx.vb">
-      <DependentUpon>Results.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
     <Compile Include="Template.Master.designer.vb">
       <DependentUpon>Template.Master</DependentUpon>
     </Compile>
@@ -186,6 +178,13 @@
     <Compile Include="imgSet1.aspx.vb">
       <DependentUpon>imgSet1.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Template2.Master.designer.vb">
+      <DependentUpon>Template2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Template2.Master.vb">
+      <DependentUpon>Template2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -208,6 +207,7 @@
     </None>
     <None Include="packages.config" />
     <Content Include="Template.Master" />
+    <Content Include="Template2.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

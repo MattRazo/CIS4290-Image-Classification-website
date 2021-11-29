@@ -1,13 +1,13 @@
-﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Template.master.vb" Inherits="CIS4290_Image_Classification_website.Template" %>
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Template2.master.vb" Inherits="CIS4290_Image_Classification_website.Template2" %>
 
 <!DOCTYPE html>
 
 <html>
-<head runat="server">
+<head>
 
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>Image Classification</title>
+    <title>Be</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -15,29 +15,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Favicons -->
-    <link rel="shortcut icon" href="content/mechanic6/images/favicon.ico">
+    <link rel="shortcut icon" href="images/favicon.ico">
 
     <!-- FONTS -->
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Poppins:100,200,300,400,400italic,500,700,700italic,900'>
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato:100,200,300,400,400italic,500,700,700italic,900'>
 
     <!-- CSS -->
-    <link rel='stylesheet' href='css/global.css'>
-    <link rel='stylesheet' href='css/el_demo.css'>
+    <link rel='stylesheet' href='../../css/global.css'>
+    <link rel='stylesheet' href='../../css/el_demo.css'>
     <link rel='stylesheet' href='content/mechanic6/css/structure.css'>
     <link rel='stylesheet' href='content/mechanic6/css/mechanic6.css'>
     <link rel='stylesheet' href='content/mechanic6/css/custom.css'>
 
-
-    <!-- Revolution Slider -->
-    <link rel="stylesheet" href="plugins/rs-plugin-6.custom/css/rs6.css">
-
-
-    <asp:ContentPlaceHolder ID="head" runat="server">
+        <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+
 </head>
-<body class="home page-template-default page template-slider  color-custom style-default button-default layout-full-width if-border-hide no-content-padding is-elementor header-classic header-fw minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-lc tablet-sticky mobile-header-mini mobile-sticky be-reg-2178 elementor-default elementor-kit-29 elementor-page elementor-page-8">
-        <form id="form2" runat="server">
+
+<body class="page-template-default page  color-custom style-default button-default layout-full-width if-border-hide no-content-padding is-elementor header-classic header-fw minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-lc tablet-sticky mobile-header-mini mobile-sticky be-reg-2178 elementor-default elementor-kit-29 elementor-page elementor-page-11">
     <div id="Wrapper">
         <div id="Header_wrapper">
             <header id="Header">
@@ -46,11 +42,11 @@
                     <div class="container">
                         <div class="column one">
                             <div class="top_bar_left clearfix">
-
+                                
                                 <div class="menu_wrapper">
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu menu-main">
-                                            <li class=" current-menu-item page_item current_page_item">
+                                            <li>
                                                 <a href="Default.aspx"><span>Home</span></a>
                                             </li>
                                             <li>
@@ -68,40 +64,74 @@
 
                             </div>
                             <div class="top_bar_right">
-                                <div class="top_bar_right_wrapper">
-
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
                 </div>
- 
             </header>
         </div>
         <div id="Content">
-
             <div class="content_wrapper clearfix">
+                
                 <div class="sections_group">
                     <div class="entry-content">
                         <div class="section the_content has_content">
                             <div class="section_wrapper">
                                 <div class="the_content_wrapper">
-                                    <div data-elementor-type="wp-page" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
+                                    <div data-elementor-type="wp-page" data-elementor-id="11" class="elementor elementor-11" data-elementor-settings="[]">
                                         <div class="elementor-inner">
                                             <div class="elementor-section-wrap">
-                                                
-                                                         
-                                                
-
-                                                <section class="elementor-element elementor-element-c39abec elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c39abec" data-element_type="section"
+                                                <section class="elementor-element elementor-element-130c7f6 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="130c7f6" data-element_type="section"
+                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                                    <div class="elementor-container elementor-column-gap-default">
+                                                        <div class="elementor-row">
+                                                            <div class="elementor-element elementor-element-1a95e05 elementor-column elementor-col-100 elementor-top-column" data-id="1a95e05" data-element_type="column">
+                                                                <div class="elementor-column-wrap  elementor-element-populated">
+                                                                    <div class="elementor-widget-wrap">
+                                                                        
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                                <section class="elementor-element elementor-element-8f6decf elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8f6decf" data-element_type="section"
                                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                                     <div class="elementor-container elementor-column-gap-wider">
                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-f504d43 elementor-column elementor-col-100 elementor-top-column" data-id="f504d43" data-element_type="column">
+         <!--ContentPlaceholder1-->                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                                            </asp:ContentPlaceHolder>
+
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                                
+                                                <section class="elementor-element elementor-element-5efe60f elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5efe60f" data-element_type="section"
+                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                                    <div class="elementor-container elementor-column-gap-default">
+                                                        <div class="elementor-row">
+                                                            <div class="elementor-element elementor-element-5980ee3 elementor-column elementor-col-100 elementor-top-column" data-id="5980ee3" data-element_type="column">
                                                                 <div class="elementor-column-wrap  elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
-                                                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
                                                                         </asp:ContentPlaceHolder>
+       <!--ContentPlaceholder2-->                                          
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                                
+                                                <section class="elementor-element elementor-element-f3e4035 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f3e4035" data-element_type="section"
+                                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                                    <div class="elementor-container elementor-column-gap-default">
+                                                        <div class="elementor-row">
+                                                            <div class="elementor-element elementor-element-e8827b1 elementor-column elementor-col-100 elementor-top-column" data-id="e8827b1" data-element_type="column">
+                                                                <div class="elementor-column-wrap  elementor-element-populated">
+                                                                    <div class="elementor-widget-wrap">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -118,21 +148,7 @@
                 </div>
             </div>
         </div>
-
-    </div>
-    <div id="Side_slide" class="right dark" data-width="250">
-        <div class="close-wrapper">
-            <a href="#" class="close"><i class="icon-cancel-fine"></i></a>
-        </div>
-        <div class="extras">
-            <a href="https://1.envato.market/9ZxXY" class="action_button" target="_blank">Buy now <i class="icon-right-open"></i></a>
-            <div class="extras-wrapper"></div>
-        </div>
-        <div class="menu_wrapper"></div>
-    </div>
-    <div id="body_overlay"></div>
-
-    <footer id="Footer" class="clearfix">
+        <footer id="Footer" class="clearfix">
             <div class="widgets_wrapper center">
                 <div class="container">
                     <div class="column one-second">
@@ -208,66 +224,32 @@
                 </div>
             </div>
         </footer>
+    </div>
+    <div id="Side_slide" class="right dark" data-width="250">
+        <div class="close-wrapper">
+            <a href="#" class="close"><i class="icon-cancel-fine"></i></a>
+        </div>
+        <div class="extras">
+            <a href="https://1.envato.market/9ZxXY" class="action_button" target="_blank">Buy now <i class="icon-right-open"></i></a>
+            <div class="extras-wrapper"></div>
+        </div>
+        <div class="menu_wrapper"></div>
+    </div>
+    <div id="body_overlay"></div>
+
 
 
 
     <!-- JS -->
-    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="../../js/jquery-2.1.4.min.js"></script>
 
-    <script src="js/mfn.menu.js"></script>
-    <script src="js/jquery.plugins.js"></script>
-    <script src="js/jquery.jplayer.min.js"></script>
-    <script src="js/animations/animations.js"></script>
-    <script src="js/translate3d.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/el_demo.js"></script>
+    <script src="../../js/mfn.menu.js"></script>
+    <script src="../../js/jquery.plugins.js"></script>
+    <script src="../../js/jquery.jplayer.min.js"></script>
+    <script src="../../js/animations/animations.js"></script>
+    <script src="../../js/translate3d.js"></script>
+    <script src="../../js/scripts.js"></script>
+    <script src="../../js/el_demo.js"></script>
 
-    <script src="plugins/rs-plugin-6.custom/js/revolution.tools.min.js"></script>
-    <script src="plugins/rs-plugin-6.custom/js/rs6.min.js"></script>
-
-
-	<script>
-	var revapi1, tpj;
-		jQuery(function() {
-			tpj = jQuery;
-			revapi1 = tpj("#rev_slider_1_1")
-			if (revapi1 == undefined || revapi1.revolution == undefined) {
-				revslider_showDoubleJqueryError("rev_slider_1_1");
-			} else {
-				revapi1.revolution({
-					sliderLayout :"fullwidth",
-					duration :"6000ms",
-					visibilityLevels :"1240,1240,778,778",
-					gridwidth :"1920,1920,778,778",
-					gridheight :"850,850,550,550",
-					spinner :"spinner7",
-					perspective : 600,
-					perspectiveType :"global",
-					editorheight :"850,768,550,720",
-					responsiveLevels :"1240,1240,778,778",
-					progressBar : {
-						style :"cw",
-						horizontal :"center",
-						vertical :"center",
-						size :"4px",
-						radius : 20,
-						x :"-20px",
-						y :"-20px"
-					},
-					navigation : {
-						onHoverStop : false
-					},
-					fallbacks : {
-						allowHTML5AutoPlayOnAndroid : true
-					},
-				});
-			}
-		});
-    </script>
-
-
-
-
-    </form>
 </body>
 </html>
