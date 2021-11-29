@@ -15,7 +15,7 @@
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                                                             <h6>RESULTS OF IMAGE SET 1</h6>
-                                                                                                            <h2>In the <span style="color: #f2ab41;">beginning</span> of this image set, we couldn't get our images to work</h2>
+                                                                                                            <h2>In the <span style="color: #f2ab41;">beginning</span> of this image set, we couldn't get our images to work.</h2>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
