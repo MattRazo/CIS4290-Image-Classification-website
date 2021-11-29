@@ -15,7 +15,7 @@
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-text-editor elementor-clearfix">
                                                     <h6>RESULTS OF IMAGE SET 3</h6>
-                                                    <h2>This <span style="color: #f2ab41;">Image set</span> was much easier but had one problem.</h2>
+                                                    <h2>This <span style="color: #f2ab41;">BY FAR</span> was the easiest Image set out of the 3.</h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -41,7 +41,7 @@
                                         <div class="elementor-element elementor-element-bd83677 elementor-widget elementor-widget-text-editor" data-id="bd83677" data-element_type="widget" data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-text-editor elementor-clearfix">
-                                                    <h4>This image set was really the first one we really tested our learning and understanding of Tensorflow.</h4>
+                                                    <h4>Since this image set also came Kaggle.com, it was pretty much set for image classification models.</h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -49,13 +49,7 @@
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-text-editor elementor-clearfix">
                                                     <p>
-                                                        We got a high validation accuracy initially, but we still needed to learn how to adjust the model. 
-                                                    </p>
-                                                    <p>
-                                                        All we did was adjust the image height and width, since it was technically not looking at the whole photo. We basically told the model to take in more data.
-                                                    </p>
-                                                    <p>
-                                                        Doing so, allowed the model to reach 100% accuracy. We also believe this may also be attributed to the fact that this image set was from Kaggle.com.
+                                                        We just followed what we did with Image set 2 which was basically change the Image height and width.
                                                     </p>
                                                 </div>
                                             </div>
@@ -83,7 +77,7 @@
                                         <div class="elementor-element elementor-element-80412c6 elementor-widget elementor-widget-image" data-id="80412c6" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-image">
-                                                    <img width="780" height="657" src="images/img2_ValidChart.jpg" class="attachment-large size-large" >
+                                                    <img width="780" height="657" src="images/img3_ValidChart.jpg" class="attachment-large size-large" >
                                                 </div>
                                             </div>
                                         </div>
@@ -98,3 +92,19 @@
         </div>
     </div>
 </asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
+    <section>
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-row">
+                    
+                    <img src="images/img3_Epoch.jpg"  />
+                    <div class="elementor-element elementor-element-5e8b02b elementor-column elementor-col-50 elementor-inner-column" data-id="5e8b02b" data-element_type="column">
+                        <div class="elementor-column-wrap">
+                            <div class="elementor-widget-wrap"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+</asp:Content>
+
