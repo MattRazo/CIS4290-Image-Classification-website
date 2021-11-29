@@ -130,11 +130,14 @@
                                     </div>
                                 </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
+                
             </div>
         </div>
+        <a href="https://github.com/MattRazo/CIS4290-Image-Set-Models" target="_blank"><h4><span style="color: #f2ab41;">Link to GitHub Code</span></h4></a>
     </section>
 
 </asp:Content>
