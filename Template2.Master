@@ -64,9 +64,7 @@
 
                             </div>
                             <div class="top_bar_right">
-                                <div class="top_bar_right_wrapper">
-                                    <a href="https://1.envato.market/9ZxXY" class="action_button" target="_blank">Buy now <i class="icon-right-open"></i></a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -102,7 +100,7 @@
                                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                                     <div class="elementor-container elementor-column-gap-wider">
                                                         <div class="elementor-row">
-                                                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+         <!--ContentPlaceholder1-->                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                                                             </asp:ContentPlaceHolder>
 
                                                         </div>
@@ -116,7 +114,10 @@
                                                             <div class="elementor-element elementor-element-5980ee3 elementor-column elementor-col-100 elementor-top-column" data-id="5980ee3" data-element_type="column">
                                                                 <div class="elementor-column-wrap  elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
-                                                                        <section class="elementor-element elementor-element-7041b2d elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7041b2d" data-element_type="section"
+                                                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+                                                                        </asp:ContentPlaceHolder>
+       <!--ContentPlaceholder2-->                                          <section class="elementor-element elementor-element-7041b2d elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7041b2d" data-element_type="section"
                                                                             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                             <div class="elementor-container elementor-column-gap-default">
                                                                                 <div class="elementor-row">
@@ -166,7 +167,7 @@
                                                             <div class="elementor-element elementor-element-e8827b1 elementor-column elementor-col-100 elementor-top-column" data-id="e8827b1" data-element_type="column">
                                                                 <div class="elementor-column-wrap  elementor-element-populated">
                                                                     <div class="elementor-widget-wrap">
-                                                                        <section class="elementor-element elementor-element-256b6c8 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="256b6c8" data-element_type="section"
+       <!--ContentPlaceholder 3-->                                      <section class="elementor-element elementor-element-256b6c8 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="256b6c8" data-element_type="section"
                                                                             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                             <div class="elementor-container elementor-column-gap-default">
                                                                                 <div class="elementor-row">
